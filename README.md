@@ -26,7 +26,7 @@ TODO: Inserir imagem do sistema montado
 
 ### Vídeo do projeto
 
-TODO: Inserir link para vídeo do projeto funcionando
+https://studio.youtube.com/video/ZaAPAEqh9jM/edit
 
 ### Músicas e Direitos autorais
 
